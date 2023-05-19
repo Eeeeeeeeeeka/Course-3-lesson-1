@@ -1,0 +1,15 @@
+/Users/eka/Desktop/Учеба/3/Example/Example001_HelloConnsole/bin/Debug/net6.0/Example001_HelloConnsole
+/Users/eka/Desktop/Учеба/3/Example/Example001_HelloConnsole/bin/Debug/net6.0/Example001_HelloConnsole.deps.json
+/Users/eka/Desktop/Учеба/3/Example/Example001_HelloConnsole/bin/Debug/net6.0/Example001_HelloConnsole.runtimeconfig.json
+/Users/eka/Desktop/Учеба/3/Example/Example001_HelloConnsole/bin/Debug/net6.0/Example001_HelloConnsole.dll
+/Users/eka/Desktop/Учеба/3/Example/Example001_HelloConnsole/bin/Debug/net6.0/Example001_HelloConnsole.pdb
+/Users/eka/Desktop/Учеба/3/Example/Example001_HelloConnsole/obj/Debug/net6.0/Example001_HelloConnsole.csproj.AssemblyReference.cache
+/Users/eka/Desktop/Учеба/3/Example/Example001_HelloConnsole/obj/Debug/net6.0/Example001_HelloConnsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eka/Desktop/Учеба/3/Example/Example001_HelloConnsole/obj/Debug/net6.0/Example001_HelloConnsole.AssemblyInfoInputs.cache
+/Users/eka/Desktop/Учеба/3/Example/Example001_HelloConnsole/obj/Debug/net6.0/Example001_HelloConnsole.AssemblyInfo.cs
+/Users/eka/Desktop/Учеба/3/Example/Example001_HelloConnsole/obj/Debug/net6.0/Example001_HelloConnsole.csproj.CoreCompileInputs.cache
+/Users/eka/Desktop/Учеба/3/Example/Example001_HelloConnsole/obj/Debug/net6.0/Example001_HelloConnsole.dll
+/Users/eka/Desktop/Учеба/3/Example/Example001_HelloConnsole/obj/Debug/net6.0/refint/Example001_HelloConnsole.dll
+/Users/eka/Desktop/Учеба/3/Example/Example001_HelloConnsole/obj/Debug/net6.0/Example001_HelloConnsole.pdb
+/Users/eka/Desktop/Учеба/3/Example/Example001_HelloConnsole/obj/Debug/net6.0/Example001_HelloConnsole.genruntimeconfig.cache
+/Users/eka/Desktop/Учеба/3/Example/Example001_HelloConnsole/obj/Debug/net6.0/ref/Example001_HelloConnsole.dll
